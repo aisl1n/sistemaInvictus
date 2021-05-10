@@ -1,0 +1,22 @@
+.display-4{
+    text-align: center;
+    
+}
+.nomes{
+    text-align: center;
+}
+.list-group-item{
+    color:#000; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#footer1{
+    font-size: 16px;
+    
+}
+#botaoDizimo{
+    background-color:rgb(9, 255, 9);
+    border-color: rgb(9, 255, 9);
+    color:rgb(0, 0, 0);
+    
+}
